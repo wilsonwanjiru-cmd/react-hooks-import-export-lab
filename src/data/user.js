@@ -1,6 +1,6 @@
 const username = "Liza";
 const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+export const image = "/images/demo.png"; // Use absolute path
 
 // export all three variables as named exports
